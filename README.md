@@ -17,18 +17,13 @@
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/durva-joshi-9668842ba">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:durva5669@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=0ea5e9" />
   </a>
-  <a href="https://github.com/Durvajoshi">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=0ea5e9" />
-  </a>
 </p>
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/durva-joshi-9668842ba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:durva5669@gmail.com) 
 
 # 💫 About Me:
 🚀 AI Developer | Building Practical, Responsible AI Systems<br><br>I’m an AI-focused developer passionate about creating real-world applications that enhance productivity, content quality, and automation. My work spans across natural language processing, content evaluation, and intelligent frontend tools.<br><br>🔍 What I Build:<br><br>AI systems for content evaluation, safety, and publishability<br>Tools for automated summarization and content enhancement<br>Intelligent apps that simplify workflows using AI-driven insights<br>Practical solutions combining frontend simplicity with AI power<br><br>💡 Highlighted Projects:<br><br>Peer Review AI System – Automating review workflows with intelligent analysis<br>Multilingual Tags Generator – Transforming raw content into structured, professional outputs with titles, slugs, and tags<br>AI Article Safety Evaluator – Ensuring AI-generated content meets ethical and quality standards<br>YouTube Transcript Summarizer – Saving time with automated video content summaries<br>GitHub Profile Summarizer – Generating concise developer profiles using AI<br>Face Mask Detection with Alert – Real-time computer vision system for safety compliance<br>AI Business Analyst Agent – Leveraging AI for insights, decision-making, and business analysis<br><br>⚙️ Tech Stack:<br>JavaScript • Python • Full-Stack • HTML/CSS • OpenAI API • Machine Learning • NLP  <br><br>🎯 Focus Areas:<br><br>Responsible AI & content moderation<br>Automation & productivity tools<br>Human-AI collaboration systems
