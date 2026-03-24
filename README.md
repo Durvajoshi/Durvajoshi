@@ -5,10 +5,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0ea5e9&height=2&section=header"/>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=14&duration=3000&pause=2000&color=94A3B8&center=true&vCenter=true&width=700&lines=AI+Developer+•+Systems+Thinker+•+Building+Quietly+Powerful+Tools" />
-</p><h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=13&duration=4000&pause=3000&color=0F172A&center=true&vCenter=true&width=700&lines=AI+Developer+%7C+Systems+Thinker+%7C+Builder" />
+</p>
+<h1 align="center">
   <span style="
     font-family: 'Georgia', 'Times New Roman', serif;
     font-weight: 500;
