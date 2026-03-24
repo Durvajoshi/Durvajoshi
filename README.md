@@ -1,29 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=38&duration=3000&pause=2000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Durva+Joshi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=38&duration=3000&pause=2000&color=0EA5E9&center=true&vCenter=true&width=600&repeat=false&lines=Durva+Joshi" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0ea5e9&height=2&section=header"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=13&duration=4000&pause=3000&color=0F172A&center=true&vCenter=true&width=700&lines=AI+Developer+%7C+Systems+Thinker+%7C+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=13&duration=4000&pause=3000&color=0F172A&center=true&vCenter=true&width=700&repeat=false&lines=AI+Developer+%7C+Systems+Thinker+%7C+Builder" />
 </p>
-<h1 align="center">
-  <span style="
-    font-family: 'Georgia', 'Times New Roman', serif;
-    font-weight: 500;
-    letter-spacing: 1.5px;
-    color: #0ea5e9;
-  ">
-    Durva Joshi
-  </span>
-</h1>
-<p align="center">
-  <i style="color:#94a3b8;">
-    AI Developer • Systems Thinker • Building Quietly Powerful Tools
-  </i>
-</p>
-
 <br>
 
 <p align="center">
