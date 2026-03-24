@@ -8,8 +8,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=13&duration=4000&pause=3000&color=0F172A&center=true&vCenter=true&width=700&repeat=false&lines=AI+Developer+%7C+Systems+Thinker+%7C+Builder" />
 </p>
-<br>
-
 <p align="center">
   <a href="https://linkedin.com/in/durva-joshi-9668842ba">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" />
