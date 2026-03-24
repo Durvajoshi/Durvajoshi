@@ -1,9 +1,13 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Durvajoshi/Durvajoshi/main/ChatGPT%20Image%20Mar%2024%2C%202026%2C%2010_06_57%20AM.png" alt="banner" />
-</p>
-
-<h1 align="center" style="color:#0ea5e9;">Durva Joshi</h1>
-
+<h1 align="center">
+  <span style="
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    color: #0ea5e9;
+  ">
+    Durva Joshi
+  </span>
+</h1>
 <p align="center">
   <i style="color:#94a3b8;">
     AI Developer • Systems Thinker • Building Quietly Powerful Tools
